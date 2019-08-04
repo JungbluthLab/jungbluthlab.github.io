@@ -19,18 +19,20 @@ ZooFlow-Viz is an application to explore taxonomy and other aspect of zooplankto
 
 ## Tools/Utilities
 
-### git-commit-timeline
+### [git-commit-timeline](https://github.com/jungbluth/git-commit-timeline)
 
 Git Commit Timeline is a Shell utility to show your Github commit history as a series of histogram plots separated by repository.
 
-### kb_sdk_icon_generator
-
-kb_sdk_icon_generator is a tool for auto-generation of icons for KBase SDK Apps. 
-
-### scholar-annotator (unpublished; under development)
+### [scholar-annotator](https://github.com/jungbluth/scholar-annotator) (unpublished; under development)
 
 scholar-annotator is a program to generate a visual narrative to accompany one's Google Scholar publication record. 
 
-### KBase-app-navigator (unpublished; under development)
+## Tools/Utilities (KBase)
+
+### [kb_sdk_icon_generator](https://github.com/jungbluth/kb_sdk_icon_generator)
+
+kb_sdk_icon_generator is a tool for auto-generation of icons for KBase SDK Apps. 
+
+### [KBase-app-navigator](https://github.com/jungbluth/KBase-app-navigator) (unpublished; under development)
 
 KBase-app-navigator presents a way to visualize the relatedness of KBase Apps based on the required input and output data types.
