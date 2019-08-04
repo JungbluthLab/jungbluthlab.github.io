@@ -8,7 +8,7 @@ Computational tools are transforming our ability to distill knowledge from data.
 
 kb_iMAG-viz is a KBase implementation of the iMAG-viz pipeline. iMAG-viz is a tool designed for quality-checking microbial genome data. Stay tuned for a more complete description and working demo.
 
-<img src="http://jungbluthlab.org/images/45878057-stock-vector-under-construction-background-vector-illustration.jpg" alt="under-construction" width="214" height="225" border="5">
+<img src="http://jungbluthlab.org/images/kbase-org-logo.png" alt="under-construction" width="214" height="225" border="5">
 
 ### ZooFlow
 
