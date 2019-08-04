@@ -8,6 +8,8 @@ Computational tools are transforming our ability to distill knowledge from data.
 
 kb_iMAG-viz is a KBase implementation of the iMAG-viz pipeline. iMAG-viz is a tool designed for quality-checking microbial genome data. Stay tuned for a more complete description and working demo.
 
+![kb_iMAG-viz-example](http://jungbluthlab.org/images/45878057-stock-vector-under-construction-background-vector-illustration.jpg)
+
 ### ZooFlow
 
 ZooFlow is a bioinformatic pipeline for analysis of zooplankton metabarcoding data. More info coming soon!
